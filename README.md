@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Resume Intelligence & HR Analytics Platform
 
 A premium Applicant Tracking System (ATS) SaaS application featuring automated resume text extraction, Claude AI structured parsing, quality scoring, semantic job description compatibility matching, talent search, and recruiter analytics.
@@ -205,3 +206,6 @@ All response bodies follow the `{ success, data, message }` format.
 - Resume Upload Zone & File Stepper: `[Upload Stepper]`
 - Candidates Search Grid: `[Candidates Grid]`
 - Job Compatibility Matches: `[Job Compatibility Detail Dialog]`
+=======
+# Resume-Parser
+>>>>>>> 7627db82f72a522ec882af736d8b695f7c402893

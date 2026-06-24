@@ -49,7 +49,7 @@ ENV/
 *~
 
 # Node / Frontend
-frontend/node_modules/
+node_modules/
 frontend/.npm
 frontend/dist/
 frontend/build/
