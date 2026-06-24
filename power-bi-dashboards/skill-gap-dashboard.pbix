@@ -1,0 +1,6 @@
+Power BI Template - skill-gap-dashboard.pbix
+Connect to:
+Driver: MySQL Connector/NET
+Server: localhost:3306
+Database: resume_parser_db
+Query: See power-bi-dashboards/README.md for exact SQL and visual setup.
